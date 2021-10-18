@@ -15,18 +15,18 @@ export default function App() {
   const [imgSrc, setImgSrc] = useState<string>('')
 
   const videoChangeHandler = () => {
-    if(!videoInput.current){
-      return;
+    if (!videoInput.current) {
+      return
     }
-    if(!videoInput.current.files){
-      return;
+    if (!videoInput.current.files) {
+      return
     }
     setFile(videoInput.current.files[0])
   }
 
   const captureThumbnail = () => {
-    if(!videoElem.current){
-      return;
+    if (!videoElem.current) {
+      return
     }
 
     const canvas = document.createElement('canvas')
@@ -70,13 +70,17 @@ export default function App() {
         <video
           style={{ width: '100px', display: 'none' }}
           ref={videoElem}
-          src={URL.createObjectURL(file)}
+          muted
+          
           //type="video/mp4"
           // controls
           autoPlay
           onLoadedData={captureThumbnail}
-          
-        ></video>
+        >
+          <source 
+            src={URL.createObjectURL(file) + ' #t=0,2'}
+            type="video/mp4"></source>
+        </video>
       ) : (
         ''
       )}
@@ -88,6 +92,7 @@ export default function App() {
       ) : (
         ''
       )}
+      Thumbnail video generation DEMO
     </div>
   )
 }
