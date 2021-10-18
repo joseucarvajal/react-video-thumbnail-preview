@@ -78,7 +78,7 @@ export default function App() {
           onLoadedData={captureThumbnail}
         >
           <source 
-            src={URL.createObjectURL(file) + ' #t=0,2'}
+            src={URL.createObjectURL(file)}
             type="video/mp4"></source>
         </video>
       ) : (
@@ -92,7 +92,7 @@ export default function App() {
       ) : (
         ''
       )}
-      Thumbnail video generation DEMO
+      Thumbnail video generation DEMO v1.0
     </div>
   )
 }
