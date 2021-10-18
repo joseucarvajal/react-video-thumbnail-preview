@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/joseucarvajal/react-video-thumbnail-preview/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/joseucarvajal/react-video-thumbnail-preview/static/js/main.36a60653.chunk.js",
-    "main.js.map": "/joseucarvajal/react-video-thumbnail-preview/static/js/main.36a60653.chunk.js.map",
-    "runtime-main.js": "/joseucarvajal/react-video-thumbnail-preview/static/js/runtime-main.62373ee8.js",
-    "runtime-main.js.map": "/joseucarvajal/react-video-thumbnail-preview/static/js/runtime-main.62373ee8.js.map",
-    "static/js/2.1af0db40.chunk.js": "/joseucarvajal/react-video-thumbnail-preview/static/js/2.1af0db40.chunk.js",
-    "static/js/2.1af0db40.chunk.js.map": "/joseucarvajal/react-video-thumbnail-preview/static/js/2.1af0db40.chunk.js.map",
-    "static/js/3.82a86e12.chunk.js": "/joseucarvajal/react-video-thumbnail-preview/static/js/3.82a86e12.chunk.js",
-    "static/js/3.82a86e12.chunk.js.map": "/joseucarvajal/react-video-thumbnail-preview/static/js/3.82a86e12.chunk.js.map",
-    "index.html": "/joseucarvajal/react-video-thumbnail-preview/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/joseucarvajal/react-video-thumbnail-preview/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1af0db40.chunk.js.LICENSE.txt": "/joseucarvajal/react-video-thumbnail-preview/static/js/2.1af0db40.chunk.js.LICENSE.txt"
+    "main.css": "/react-video-thumbnail-preview/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-video-thumbnail-preview/static/js/main.36a60653.chunk.js",
+    "main.js.map": "/react-video-thumbnail-preview/static/js/main.36a60653.chunk.js.map",
+    "runtime-main.js": "/react-video-thumbnail-preview/static/js/runtime-main.353608a8.js",
+    "runtime-main.js.map": "/react-video-thumbnail-preview/static/js/runtime-main.353608a8.js.map",
+    "static/js/2.1af0db40.chunk.js": "/react-video-thumbnail-preview/static/js/2.1af0db40.chunk.js",
+    "static/js/2.1af0db40.chunk.js.map": "/react-video-thumbnail-preview/static/js/2.1af0db40.chunk.js.map",
+    "static/js/3.82a86e12.chunk.js": "/react-video-thumbnail-preview/static/js/3.82a86e12.chunk.js",
+    "static/js/3.82a86e12.chunk.js.map": "/react-video-thumbnail-preview/static/js/3.82a86e12.chunk.js.map",
+    "index.html": "/react-video-thumbnail-preview/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-video-thumbnail-preview/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1af0db40.chunk.js.LICENSE.txt": "/react-video-thumbnail-preview/static/js/2.1af0db40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62373ee8.js",
+    "static/js/runtime-main.353608a8.js",
     "static/js/2.1af0db40.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.36a60653.chunk.js"
