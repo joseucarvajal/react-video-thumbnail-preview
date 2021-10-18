@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 // Source: https://codesandbox.io/s/pz7s1?file=/src/getThumbnail.js
+// Deploy to GitHub pages: https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
 // import Thumbnail from "./Thumbnail";
 // 1. Make sure user is uploading a video
 // This is already checked in the Illfact videoupload
